@@ -13,6 +13,7 @@
  1.         A Python Refresher which include all the commands and lectures related to python.
  2.         A REST API using Flask
  3.         A REST API using Flask-RESTful
- 4.         A REST API using Flask-with SQLite
- 5.         A REST API using Flask-with SQLAlchemy
+ 4.         A REST API using Virtualenv 
+ 5.         A REST API using Flask-with SQLite
+ 6.         A REST API using Flask-with SQLAlchemy
 
